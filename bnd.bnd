@@ -1,0 +1,3 @@
+Bundle-Name: Elastic Client Web
+Bundle-SymbolicName: it.maucel89.liferay.elastic.client.web
+Bundle-Version: 1.0.0
